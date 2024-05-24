@@ -13,6 +13,6 @@ function findSecondLargest(arr) {
     
     return secondMax;
 }
-const arr = [10, 5, 20, 8, 15,55];
+const arr = [130, 5, 190, 8, 15,105];
 const secondLargest = findSecondLargest(arr);
 console.log("Second largest element:", secondLargest);
